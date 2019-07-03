@@ -55,4 +55,8 @@ $(document).ready(function(){
 			// },
 		// }
 	});
+	
+	
+	// nice select
+	$('#select').niceSelect();
 });
