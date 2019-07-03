@@ -1159,9 +1159,11 @@ footer .footer-area .footer-widget ul li a {
 	font-family: 'oswald',sans-serif;
 	font-weight: 500;
 }
-
-
 /* PRODUCT DETAILS PAGE ENDS */
+
+.filter-option .side-bar-card .card-body ul li span {
+	float:inherit!important;
+}
 
 
 
